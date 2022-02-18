@@ -17,6 +17,8 @@ def styles_project():
     url_for('static', filename='assets/img/home-bg.jpg')
     url_for('static', filename='assets/img/post-bg.jpg')
     url_for('static', filename='assets/img/post-sample-image.jpg')
+    url_for('static', filename='assets/img/developer-background.jpg')
+    url_for('static', filename='assets/img/post-image.jpg')
     url_for('static', filename='assets/favicon.ico')
     url_for('static', filename='css/styles.css')
 
